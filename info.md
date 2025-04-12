@@ -1,16 +1,3 @@
-Perfect, thank you! I’ll compile comprehensive information about the NC Math 2 curriculum as used in North Carolina public high schools. This will include:
-
-- An overview and objectives of the course.
-- A detailed list of core topics and mathematical concepts.
-- The curricular structure including units, pacing, and recommended resources (textbooks, digital tools like Desmos and GeoGebra).
-- Recent updates or changes from NCDPI or assessment bodies.
-- Proven success strategies and instructional approaches.
-- Real-world application examples and practice problems.
-
-I'll also create a complete Markdown document that explains the actual concepts with visuals and external tool links. This will be exported into Markdown (.md), PDF, and HTML formats for easy use.
-
-I’ll start gathering all the necessary data and let you know when everything’s ready for review.
-
 # NC Math 2 Curriculum Guide (North Carolina)  
 
 ## Overview and Objectives  
